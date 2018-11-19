@@ -5,29 +5,30 @@ input {
 
 .form-container {
   width: 25%;
-  height: 50%;
+  height: 55%;
   margin: 0 auto;
-  padding: 300px;
+  padding: 35%;
   position: relative;
 }
 
 form {
   display: inline-block;
   font-size: 20px;
+  width: 50%;
 }
 
 form:nth-child(1) {
   float:left;
-  width:250px;
+  width:100%;
 }
 
 form:nth-child(2){
   display: inline-block;
   margin:0 auto;
-  width:250px;
+  width:30%;
 }
 
 form:nth-child(3){
   float:right;
-  width:250px;
+  width:30%;
 }
